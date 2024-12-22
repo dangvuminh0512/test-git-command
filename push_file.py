@@ -1,2 +1,3 @@
-print(" helolo")
-print("a")
+print(" helo")
+print("a-asss")
+print(1+1)
